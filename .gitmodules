@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggblanket"]
+	path = ggblanket
+	url = https://github.com/davidhodge931/ggblanket
+	shallow = true
+	registered = true
