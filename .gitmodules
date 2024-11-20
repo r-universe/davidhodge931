@@ -5,11 +5,3 @@
 [submodule "ggblanket"]
 	path = ggblanket
 	url = https://github.com/davidhodge931/ggblanket
-[submodule "ggplot2"]
-	path = ggplot2
-	url = https://github.com/tidyverse/ggplot2
-	registered = false
-[submodule "scales"]
-	path = scales
-	url = https://github.com/r-lib/scales
-	registered = false
