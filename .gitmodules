@@ -5,3 +5,6 @@
 [submodule "ggblanket"]
 	path = ggblanket
 	url = https://github.com/davidhodge931/ggblanket
+[submodule "ggwidth"]
+	path = ggwidth
+	url = https://github.com/davidhodge931/ggwidth
