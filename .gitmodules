@@ -8,3 +8,6 @@
 [submodule "ggwidth"]
 	path = ggwidth
 	url = https://github.com/davidhodge931/ggwidth
+[submodule "jumble"]
+	path = jumble
+	url = https://github.com/davidhodge931/jumble
