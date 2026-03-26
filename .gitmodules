@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "blends"]
+	path = blends
+	url = https://github.com/davidhodge931/blends
 [submodule "ggblanket"]
 	path = ggblanket
 	url = https://github.com/davidhodge931/ggblanket
