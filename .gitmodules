@@ -11,6 +11,9 @@
 [submodule "ggrefine"]
 	path = ggrefine
 	url = https://github.com/davidhodge931/ggrefine
+[submodule "ggscribe"]
+	path = ggscribe
+	url = https://github.com/davidhodge931/ggscribe
 [submodule "ggwidth"]
 	path = ggwidth
 	url = https://github.com/davidhodge931/ggwidth
